@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854837904388",
+    "project_id": "mobilier-app",
+    "storage_bucket": "mobilier-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854837904388:android:ad6138480bbb8256ce2151",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854837904388-qo3e21fgv3mhq65s8hovprccr0ija91d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxJgH1x5yyXTdMjA52rstwN2uyvhiO1HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854837904388-qo3e21fgv3mhq65s8hovprccr0ija91d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

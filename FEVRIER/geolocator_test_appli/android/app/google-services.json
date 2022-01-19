@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561946300348",
+    "project_id": "flutter-chat-14fd4",
+    "storage_bucket": "flutter-chat-14fd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561946300348:android:faf280ff6e4b06b06ca5b9",
+        "android_client_info": {
+          "package_name": "com.example.geolocator_test_appli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561946300348-d2j72anteo7pmo8gl9f25i90cuf6fld1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4GPoxsL0pht3shHpG4wL9Wb0kmP1jmTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561946300348-d2j72anteo7pmo8gl9f25i90cuf6fld1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
